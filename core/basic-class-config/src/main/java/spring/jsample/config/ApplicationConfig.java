@@ -19,7 +19,7 @@ public class ApplicationConfig {
 	public HelloWorld helloWorld() {
 		HelloWorld helloWorld = new HelloWorld();
 		/* set name variable value of the bean class */
-		helloWorld.setName("Spring World !!!");
+		helloWorld.setName("Spring !!!");
 		return helloWorld;
 	}
 }
