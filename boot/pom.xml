@@ -26,5 +26,6 @@
 	<modules>
 		<module>basic-console</module>
     <module>mybatis-h2database</module>
+    <module>java-spark</module>
   </modules>
 </project>
