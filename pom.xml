@@ -19,5 +19,6 @@
   <modules>
     <module>core</module>
     <module>boot</module>
+    <module>mvc</module>
   </modules>
 </project>
